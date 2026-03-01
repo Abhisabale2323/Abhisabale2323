@@ -30,7 +30,23 @@
 
 ###
 
-<p align="left">Hi, I'm Abhishek Sabale 👋<br>[Backend Developer | Java | Spring] Boot<br>📍 Pune, India<br><br>💻 Passionate Java Backend Developer<br>MCA graduate with strong fundamentals in Java, OOP, SQL, and Spring Boot, focused on building clean and scalable backend applications.<br><br>🚀 What I Do<br><br>-Design and develop RESTful APIs<br>-Build backend systems using Spring Boot<br>-Work with MySQL & PostgreSQL databases<br>-Follow clean code and structured project architecture<br><br>📚 Currently Improving<br>-Advanced Spring Boot & Microservices basics<br>-Data Structures & Algorithms<br>-Writing production-ready, optimized code<br><br>🎯 Career Goal<br>To contribute to impactful software projects, continuously grow as a backend engineer, and solve real-world problems through technology.<br><br>💬 Let’s Connect<br>Open to collaborating on backend projects, learning opportunities, and tech discussions.<br><br>⚡ Beyond Coding<br>Interested in space technology, emerging AI trends, and self-improvement.</p>
+<p align="left">Hi, I'm Abhishek Sabale 👋<br>[Backend Developer | Java | Spring] Boot<br>📍 Pune, India<br><br>🔭 I’m currently working on
+Developing full-stack and backend applications using Java, Spring Boot, MySQL/PostgreSQL, and improving API development skills.
+
+👯 I’m looking to collaborate on
+Beginner-friendly open-source projects, backend systems, and real-world application development using Java technologies.
+
+🤝 I’m looking for help with
+Writing scalable backend applications, understanding industry-level architecture, and improving code optimization techniques.
+
+🌱 I’m currently learning
+Advanced Spring Boot concepts, Microservices fundamentals, RESTful API best practices, and strengthening Data Structures & Algorithms.
+
+💬 Ask me about
+Core Java, OOP principles, JDBC, Spring Boot basics, SQL queries, and backend development concepts.
+
+⚡ Fun fact
+I believe consistency beats talent — I focus on learning something new every day and improving both my technical and communication skills.</p>
 
 ###
 
@@ -64,7 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="15" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
