@@ -20,17 +20,13 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi 👋,I'm ABHISHEK SABALE</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi, I'm Abhishek Sabale 👋<br>[Backend Developer | Java | SpringBoot]<br>📍 Pune, India<br><br>🔭 I’m currently working on
+<br>🔭 I’m currently working on
 Developing full-stack and backend applications using Java, Spring Boot, MySQL/PostgreSQL, and improving API development skills.
 
 👯 I’m looking to collaborate on
