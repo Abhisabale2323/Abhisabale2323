@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Hi, I'm Abhishek Sabale 👋<br>[Backend Developer | Java | Spring] Boot<br>📍 Pune, India<br><br>🔭 I’m currently working on
+<p align="left">Hi, I'm Abhishek Sabale 👋<br>[Backend Developer | Java | SpringBoot]<br>📍 Pune, India<br><br>🔭 I’m currently working on
 Developing full-stack and backend applications using Java, Spring Boot, MySQL/PostgreSQL, and improving API development skills.
 
 👯 I’m looking to collaborate on
@@ -79,10 +79,9 @@ I believe consistency beats talent — I focus on learning something new every d
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
 </div>
 
 ###
