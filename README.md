@@ -77,7 +77,7 @@ I believe consistency beats talent — I focus on learning something new every d
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="15" />
-  <img src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" height="40" alt="github logo"  />
+  <img src="https://www.svgrepo.com/show/394174/github.svg" height="40" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
   <img width="10" />
