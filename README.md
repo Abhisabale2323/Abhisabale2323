@@ -103,7 +103,7 @@ I believe consistency beats talent — I focus on learning something new every d
 <br clear="both">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text= &fontSize=70&fontColor=F5F5F5&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&color=random" />
 </div>
 
 ###
